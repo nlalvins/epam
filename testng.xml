@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestAll">
+
+  <test name="Login">
+  
+	<classes>
+	
+		<class name="com.login.testcases.LoginScreen" />
+		
+	</classes>
+  </test>
+ 
+</suite>
